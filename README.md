@@ -9,6 +9,11 @@ Classic Networks Codes
 
 1.详解深度学习之经典网络架构（一）：LeNet     https://blog.csdn.net/chenyuping333/article/details/82177677
 
+代码1：https://blog.csdn.net/qq_25222187/article/details/85320234
+
+代码2：https://blog.csdn.net/roguesir/article/details/73770448
+
+
 2.详解深度学习之经典网络架构（二）：AlexNet    https://blog.csdn.net/chenyuping333/article/details/82178335
 
 3.详解深度学习之经典网络架构（三）：ZFNet      https://blog.csdn.net/chenyuping333/article/details/82178769
