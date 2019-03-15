@@ -1,6 +1,8 @@
 # Classic-Networks
 Classic Networks Codes
 
+系列一
+
 0.深度学习框架详解：汇总     https://blog.csdn.net/chenyuping333/article/details/81902566#1.1LeNet
 
 1.详解深度学习之经典网络架构（一）：LeNet     https://blog.csdn.net/chenyuping333/article/details/82177677
@@ -26,4 +28,7 @@ Classic Networks Codes
 
 轻量级网络--MobileNet论文解读——CSDN     https://blog.csdn.net/u011974639/article/details/79199306
 
+其他
+
+0.0 从AlexNet到残差网络，理解卷积神经网络的不同架构——机器之心   https://www.jiqizhixin.com/articles/2017-12-18-2
 
