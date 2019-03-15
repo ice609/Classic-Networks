@@ -16,6 +16,8 @@ Classic Networks Codes
 
 2.详解深度学习之经典网络架构（二）：AlexNet    https://blog.csdn.net/chenyuping333/article/details/82178335
 
+代码：https://www.cnblogs.com/vipyoumay/p/7686230.html
+
 3.详解深度学习之经典网络架构（三）：ZFNet      https://blog.csdn.net/chenyuping333/article/details/82178769
 
 4.详解深度学习之经典网络架构（四）：VGG-Net    https://blog.csdn.net/chenyuping333/article/details/82250931
