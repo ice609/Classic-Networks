@@ -34,6 +34,7 @@ Classic Networks Codes
 
 10.详解深度学习之经典网络架构（十）：九大框架汇总    https://blog.csdn.net/chenyuping333/article/details/82526440
 
+keras实现常用深度学习模型LeNet，AlexNet，ZFNet，VGGNet，GoogleNet，Resnet:   https://blog.csdn.net/lwy_520/article/details/81453893 
 
 轻量级网络--MobileNet论文解读——CSDN     https://blog.csdn.net/u011974639/article/details/79199306
 
