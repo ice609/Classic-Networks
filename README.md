@@ -42,3 +42,4 @@ keras实现常用深度学习模型LeNet，AlexNet，ZFNet，VGGNet，GoogleNet�
 
 0.0 从AlexNet到残差网络，理解卷积神经网络的不同架构——机器之心   https://www.jiqizhixin.com/articles/2017-12-18-2
 
+0.1 对ResNet的理解  https://blog.csdn.net/buyi_shizi/article/details/53336192?utm_source=itdadao&utm_medium=referral
